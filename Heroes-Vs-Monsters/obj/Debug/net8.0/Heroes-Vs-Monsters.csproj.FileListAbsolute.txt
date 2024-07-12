@@ -13,3 +13,7 @@ C:\Users\MonPC\Documents\C#\-Heroes-Vs-Monsters\Heroes-Vs-Monsters\obj\Debug\net
 C:\Users\MonPC\Documents\C#\-Heroes-Vs-Monsters\Heroes-Vs-Monsters\obj\Debug\net8.0\Heroes-Vs-Monsters.pdb
 C:\Users\MonPC\Documents\C#\-Heroes-Vs-Monsters\Heroes-Vs-Monsters\obj\Debug\net8.0\Heroes-Vs-Monsters.genruntimeconfig.cache
 C:\Users\MonPC\Documents\C#\-Heroes-Vs-Monsters\Heroes-Vs-Monsters\obj\Debug\net8.0\ref\Heroes-Vs-Monsters.dll
+C:\Users\MonPC\Documents\C#\-Heroes-Vs-Monsters\Heroes-Vs-Monsters\bin\Debug\net8.0\Models.dll
+C:\Users\MonPC\Documents\C#\-Heroes-Vs-Monsters\Heroes-Vs-Monsters\bin\Debug\net8.0\Models.pdb
+C:\Users\MonPC\Documents\C#\-Heroes-Vs-Monsters\Heroes-Vs-Monsters\obj\Debug\net8.0\Heroes-Vs-Monsters.csproj.AssemblyReference.cache
+C:\Users\MonPC\Documents\C#\-Heroes-Vs-Monsters\Heroes-Vs-Monsters\obj\Debug\net8.0\Heroes-V.45CB996C.Up2Date

@@ -6,14 +6,14 @@ using System.Threading.Tasks;
 
 namespace Models
 {
-    internal class Dé
+    public class Dé
     {
         #region Propriétés
-        internal int Minimum { get; } 
-        internal int Maximum { get; }
+        public int Minimum { get; }
+        public int Maximum { get; }
         #endregion
         #region Méthodes
-        internal int Jetdedes (int mininum, int maximum)
+        public int Jetdedes (int mininum, int maximum)
         {
             Random random = new Random();
             int aleatoire = random.Next(mininum, maximum + 1);

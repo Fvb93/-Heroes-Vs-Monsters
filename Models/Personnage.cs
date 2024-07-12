@@ -3,38 +3,25 @@
     public class Personnage
     {
         #region Propriétés
-        public int Endurance { get; set; }
-        public int Force { get; set; }
-        public int PointsDeVie { get; set; }
+        public virtual int Endurance { get; set; }
+        public virtual int Force { get; set; }
+        public virtual int PointsDeVie { get; set; }
+        public virtual int Or { get; set; }
+        public virtual int Cuir { get; set; }
         #endregion
         #region Méthodes
-        public void CreationPersonnage()
+        public virtual void CreationPersonnage()
         {
             Endurance = CalculForceouEndu();
             Force = CalculForceouEndu();
-
-            int modificateur = 0;
-            if (Endurance < 5)
-            {
-                modificateur = -1;
-            }
-            else if (Endurance < 10)
-            {
-                modificateur = 0;
-            }
-            else if (Endurance < 15)
-            {
-                modificateur = 1;
-            }
-            else
-            {
-                modificateur = 2;
-            }
+            int modificateur = Modificateur(Endurance);
+            
             PointsDeVie = Endurance + modificateur;
         }
-        private int CalculForceouEndu(Dé d)
+        private static int CalculForceouEndu()
         {
             List<int> ListLancer = new List<int>();
+            Dé d = new Dé();
 
             for (int jetdedes = 1; jetdedes <= 4; jetdedes++)
             {
@@ -48,11 +35,37 @@
             int totalpoints = ListLancer.Sum();   // Si pas de Linq, faire une boucle
             return totalpoints;
         }
+        private static int Modificateur(int attribut)
+        {
+            int modificateur = 0;
+            if (attribut < 5)
+            {
+                modificateur = -1;
+            }
+            else if (attribut < 10)
+            {
+                modificateur = 0;
+            }
+            else if (attribut < 15)
+            {
+                modificateur = 1;
+            }
+            else
+            {
+                modificateur = 2;
+            }
+            return modificateur;
+        }
         public int Frappe()
         {
-            int degat = 0;
-
+            Dé d = new Dé();
+            int modificateur = Modificateur(Force);
+            int degat = d.Jetdedes(1, 4) + modificateur;
             return degat;
+        }
+        public void RecevoirDegat (int degat)
+        {
+            PointsDeVie -= degat;      
         }
         #endregion
     }
