@@ -1,0 +1,15 @@
+C:\Users\MonPC\Documents\C#\-Heroes-Vs-Monsters\Heroes-Vs-Monsters\bin\Debug\net8.0\Heroes-Vs-Monsters.exe
+C:\Users\MonPC\Documents\C#\-Heroes-Vs-Monsters\Heroes-Vs-Monsters\bin\Debug\net8.0\Heroes-Vs-Monsters.deps.json
+C:\Users\MonPC\Documents\C#\-Heroes-Vs-Monsters\Heroes-Vs-Monsters\bin\Debug\net8.0\Heroes-Vs-Monsters.runtimeconfig.json
+C:\Users\MonPC\Documents\C#\-Heroes-Vs-Monsters\Heroes-Vs-Monsters\bin\Debug\net8.0\Heroes-Vs-Monsters.dll
+C:\Users\MonPC\Documents\C#\-Heroes-Vs-Monsters\Heroes-Vs-Monsters\bin\Debug\net8.0\Heroes-Vs-Monsters.pdb
+C:\Users\MonPC\Documents\C#\-Heroes-Vs-Monsters\Heroes-Vs-Monsters\obj\Debug\net8.0\Heroes-Vs-Monsters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MonPC\Documents\C#\-Heroes-Vs-Monsters\Heroes-Vs-Monsters\obj\Debug\net8.0\Heroes-Vs-Monsters.AssemblyInfoInputs.cache
+C:\Users\MonPC\Documents\C#\-Heroes-Vs-Monsters\Heroes-Vs-Monsters\obj\Debug\net8.0\Heroes-Vs-Monsters.AssemblyInfo.cs
+C:\Users\MonPC\Documents\C#\-Heroes-Vs-Monsters\Heroes-Vs-Monsters\obj\Debug\net8.0\Heroes-Vs-Monsters.csproj.CoreCompileInputs.cache
+C:\Users\MonPC\Documents\C#\-Heroes-Vs-Monsters\Heroes-Vs-Monsters\obj\Debug\net8.0\Heroes-Vs-Monsters.sourcelink.json
+C:\Users\MonPC\Documents\C#\-Heroes-Vs-Monsters\Heroes-Vs-Monsters\obj\Debug\net8.0\Heroes-Vs-Monsters.dll
+C:\Users\MonPC\Documents\C#\-Heroes-Vs-Monsters\Heroes-Vs-Monsters\obj\Debug\net8.0\refint\Heroes-Vs-Monsters.dll
+C:\Users\MonPC\Documents\C#\-Heroes-Vs-Monsters\Heroes-Vs-Monsters\obj\Debug\net8.0\Heroes-Vs-Monsters.pdb
+C:\Users\MonPC\Documents\C#\-Heroes-Vs-Monsters\Heroes-Vs-Monsters\obj\Debug\net8.0\Heroes-Vs-Monsters.genruntimeconfig.cache
+C:\Users\MonPC\Documents\C#\-Heroes-Vs-Monsters\Heroes-Vs-Monsters\obj\Debug\net8.0\ref\Heroes-Vs-Monsters.dll
